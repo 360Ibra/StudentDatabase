@@ -1,5 +1,5 @@
 # StudentDatabase
-ServerSide Project Unfinished still in progress
+ Project Unfinished still in progress
 Backend functionality seems to be working all right features allow for a Student to Enter there ID and name and DOB and then submits to a MySql Database using jdbc Driver.
 Once there is data in the database 
 
